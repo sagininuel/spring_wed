@@ -1,0 +1,42 @@
+.Location-container {
+    /* padding: 2rem; */
+    height: 100vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+    background-color: papayawhip;
+  }
+  
+  .grid {
+    display: grid;
+    place-items: center;
+  }
+  
+  .Location-container > h1 {
+    color: #fff;
+    font-size: 10px;
+    /* margin-top: -10px; */
+  }
+  .Location-container > p {
+    /* margin-top: 8px; */
+    color: #fff;
+    font-size: 32px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .Location-container > h1 {
+      font-size: 50px;
+      /* margin-top: -100px; */
+    }
+  
+    .Location-container > p {
+      font-size: 30px;
+    }
+  }
+  
