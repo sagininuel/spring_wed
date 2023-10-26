@@ -9,10 +9,12 @@ import Contact from "../own/Contact";
 import Location from "../own/Location";
 import SendGift from "../own/SendGift";
 import GuestBook from "../own/GuestBook";
+import Header from "../own/Header";
 
 function LandingPage() {
   return (
     <>
+      {/* <Header /> */}
       <HeroSection />
       <DateTime />
       <Inivitation />
