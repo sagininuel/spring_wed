@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spring_wed/static/css/main.11146a7b.css",
+    "main.js": "/spring_wed/static/js/main.2960b9dc.js",
+    "index.html": "/spring_wed/index.html",
+    "main.11146a7b.css.map": "/spring_wed/static/css/main.11146a7b.css.map",
+    "main.2960b9dc.js.map": "/spring_wed/static/js/main.2960b9dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11146a7b.css",
+    "static/js/main.2960b9dc.js"
+  ]
+}
